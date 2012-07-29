@@ -97,7 +97,6 @@ public class DeviceSettings extends PreferenceActivity  {
 
         mVibration = (VibrationPreference) findPreference(KEY_VIBRATION);
         mVibration.setEnabled(VibrationPreference.isSupported());
-
         mTvOut = new TvOut();
         mTvOutEnable = (CheckBoxPreference) findPreference(KEY_TVOUT_ENABLE);
         mTvOutSystem = (ListPreference) findPreference(KEY_TVOUT_SYSTEM);

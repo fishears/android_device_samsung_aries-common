@@ -41,7 +41,6 @@
     <string name="mic_spk_title">Speakerphone Mic</string>
     <string name="mic_hp_title">Headphone Mic</string>
     <string name="mic_hp_no_mic_title">Headphone (with no mic) Mic</string>
-
     <string name="category_dock_audio_title">Dock Audio</string>
     <string name="cardock_audio_title_head">Car Dock</string>
     <string name="cardock_audio_summary_on">Car dock audio enabled</string>
@@ -66,5 +65,4 @@
     <string name="imei_not_sane_title">Warning!</string>
     <string name="imei_not_sane_message">A problem was detected with your device. Your device IMEI number is invalid. An invalid IMEI number could cause network issues including the inability to call emergency numbers.</string>
     <string name="imei_not_sane_ok">OK</string>
-
 </resources>

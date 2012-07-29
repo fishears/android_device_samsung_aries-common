@@ -71,7 +71,6 @@
                 android:title="@string/volume_boost_title_head"
                 android:summary="@string/volume_boost_summary_head" />
 	</PreferenceCategory>
-
         <PreferenceCategory
             android:title="@string/category_dock_audio_title"
             android:key="category_dock_audio">
